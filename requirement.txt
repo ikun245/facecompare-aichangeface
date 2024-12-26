@@ -1,1 +1,6 @@
+flask
+face_recognition
+numpy
+sqlite3  # sqlite3 是 Python 标准库的一部分，不需要安装，保留备注以示使用
+pillow
 
